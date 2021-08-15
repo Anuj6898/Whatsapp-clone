@@ -1,0 +1,29 @@
+.login{
+    background-color: #ff3b3b;
+    height: 100vh;
+    width: 100vw;
+    display: grid;
+    place-items: center;
+}
+.login_container{
+    padding: 100px;
+    text-align: center;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 1px 3px black;
+}
+.login_text > h1{
+    color: rgb(31, 31, 31);
+}
+.login_container > button{
+    margin-top: 50px;
+    text-transform: inherit !important;
+    background-color: #f7f7f7 !important;
+    color: rgb(31, 31, 31);
+    border-radius: 30px;
+    width: 350px;
+    border: 1px solid black;
+}
+img{
+    margin-right: 10px;
+}
